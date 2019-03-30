@@ -1,0 +1,44 @@
+@charset "UTF-8";
+img{
+    width: 20%;
+}
+h2{
+    color:red;
+    font-size:35px;
+    font-style:italic;
+    font-family:sans-serif;
+    text-transform:uppercase;
+    background-color:antiquewhite;
+    text-align:center;
+}
+div.poema{
+    background-color:lightgray;
+    font-family:monospace;
+    width:90%;
+    margin-right:5%;
+    margin-left:5%;
+border-radius:5px 5px 5px;
+}
+
+
+nav.menu{
+    width:100%;
+}
+nav.menu ul{
+    width: 70%;;
+    margin: 0 auto; 
+}
+header{
+    width: 100%;
+    background-color: darkgray;
+    
+}
+body {
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: darkgray;
+}
+div.poema{
+    
+}
